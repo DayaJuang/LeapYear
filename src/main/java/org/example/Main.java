@@ -12,6 +12,7 @@ public class Main {
             System.out.println(ans);
         }
 
+        // Print day of a month
         int temp = getDaysInMonth(2,2018);
         System.out.println(temp);
     }
